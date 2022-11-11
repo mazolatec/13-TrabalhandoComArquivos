@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-UsingBlock", "05-UsingBl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-StreamWriter", "06-StreamWriter\06-StreamWriter.csproj", "{BDE5B87F-5A31-46EC-80AF-7EC3097760A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-DirectoryDirectoryInfo", "07-DirectoryDirectoryInfo\07-DirectoryDirectoryInfo.csproj", "{D02C9365-DCDE-48FA-AC18-B64047E5CC68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{BDE5B87F-5A31-46EC-80AF-7EC3097760A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDE5B87F-5A31-46EC-80AF-7EC3097760A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDE5B87F-5A31-46EC-80AF-7EC3097760A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D02C9365-DCDE-48FA-AC18-B64047E5CC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D02C9365-DCDE-48FA-AC18-B64047E5CC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D02C9365-DCDE-48FA-AC18-B64047E5CC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D02C9365-DCDE-48FA-AC18-B64047E5CC68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

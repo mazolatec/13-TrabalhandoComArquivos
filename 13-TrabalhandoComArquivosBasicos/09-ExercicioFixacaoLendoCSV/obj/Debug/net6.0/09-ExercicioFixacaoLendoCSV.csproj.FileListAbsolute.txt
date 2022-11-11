@@ -1,0 +1,15 @@
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\09-ExercicioFixacaoLendoCSV\obj\Debug\net6.0\09-ExercicioFixacaoLendoCSV.csproj.AssemblyReference.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\09-ExercicioFixacaoLendoCSV\obj\Debug\net6.0\09-ExercicioFixacaoLendoCSV.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\09-ExercicioFixacaoLendoCSV\obj\Debug\net6.0\09-ExercicioFixacaoLendoCSV.AssemblyInfoInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\09-ExercicioFixacaoLendoCSV\obj\Debug\net6.0\09-ExercicioFixacaoLendoCSV.AssemblyInfo.cs
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\09-ExercicioFixacaoLendoCSV\obj\Debug\net6.0\09-ExercicioFixacaoLendoCSV.csproj.CoreCompileInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\09-ExercicioFixacaoLendoCSV\bin\Debug\net6.0\09-ExercicioFixacaoLendoCSV.exe
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\09-ExercicioFixacaoLendoCSV\bin\Debug\net6.0\09-ExercicioFixacaoLendoCSV.deps.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\09-ExercicioFixacaoLendoCSV\bin\Debug\net6.0\09-ExercicioFixacaoLendoCSV.runtimeconfig.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\09-ExercicioFixacaoLendoCSV\bin\Debug\net6.0\09-ExercicioFixacaoLendoCSV.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\09-ExercicioFixacaoLendoCSV\bin\Debug\net6.0\09-ExercicioFixacaoLendoCSV.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\09-ExercicioFixacaoLendoCSV\obj\Debug\net6.0\09-ExercicioFixacaoLendoCSV.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\09-ExercicioFixacaoLendoCSV\obj\Debug\net6.0\refint\09-ExercicioFixacaoLendoCSV.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\09-ExercicioFixacaoLendoCSV\obj\Debug\net6.0\09-ExercicioFixacaoLendoCSV.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\09-ExercicioFixacaoLendoCSV\obj\Debug\net6.0\09-ExercicioFixacaoLendoCSV.genruntimeconfig.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\09-ExercicioFixacaoLendoCSV\obj\Debug\net6.0\ref\09-ExercicioFixacaoLendoCSV.dll

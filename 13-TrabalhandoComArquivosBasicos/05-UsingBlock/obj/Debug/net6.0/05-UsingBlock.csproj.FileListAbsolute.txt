@@ -1,0 +1,15 @@
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\05-UsingBlock\obj\Debug\net6.0\05-UsingBlock.csproj.AssemblyReference.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\05-UsingBlock\obj\Debug\net6.0\05-UsingBlock.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\05-UsingBlock\obj\Debug\net6.0\05-UsingBlock.AssemblyInfoInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\05-UsingBlock\obj\Debug\net6.0\05-UsingBlock.AssemblyInfo.cs
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\05-UsingBlock\obj\Debug\net6.0\05-UsingBlock.csproj.CoreCompileInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\05-UsingBlock\bin\Debug\net6.0\05-UsingBlock.exe
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\05-UsingBlock\bin\Debug\net6.0\05-UsingBlock.deps.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\05-UsingBlock\bin\Debug\net6.0\05-UsingBlock.runtimeconfig.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\05-UsingBlock\bin\Debug\net6.0\05-UsingBlock.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\05-UsingBlock\bin\Debug\net6.0\05-UsingBlock.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\05-UsingBlock\obj\Debug\net6.0\05-UsingBlock.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\05-UsingBlock\obj\Debug\net6.0\refint\05-UsingBlock.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\05-UsingBlock\obj\Debug\net6.0\05-UsingBlock.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\05-UsingBlock\obj\Debug\net6.0\05-UsingBlock.genruntimeconfig.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\05-UsingBlock\obj\Debug\net6.0\ref\05-UsingBlock.dll

@@ -1,11 +1,11 @@
 ﻿namespace FileFileInfoIOException
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
             //string sourcePath = "c:\\temp\\file1.txt";
-            string sourcePath = @"D:\7.4.4 DECODE SOIC8 95160 8331.bin";
+            string sourcePath = @"7.4.4 DECODE.bin";
             //string sourcePath = @"D:\Backup.MPC";
             string targtPath = @"D:\Backupmp1.bin";
 

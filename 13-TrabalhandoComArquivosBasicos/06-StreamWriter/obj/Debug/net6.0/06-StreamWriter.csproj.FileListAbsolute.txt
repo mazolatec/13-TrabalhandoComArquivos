@@ -1,0 +1,15 @@
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\06-StreamWriter\bin\Debug\net6.0\06-StreamWriter.exe
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\06-StreamWriter\bin\Debug\net6.0\06-StreamWriter.deps.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\06-StreamWriter\bin\Debug\net6.0\06-StreamWriter.runtimeconfig.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\06-StreamWriter\bin\Debug\net6.0\06-StreamWriter.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\06-StreamWriter\bin\Debug\net6.0\06-StreamWriter.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\06-StreamWriter\obj\Debug\net6.0\06-StreamWriter.csproj.AssemblyReference.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\06-StreamWriter\obj\Debug\net6.0\06-StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\06-StreamWriter\obj\Debug\net6.0\06-StreamWriter.AssemblyInfoInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\06-StreamWriter\obj\Debug\net6.0\06-StreamWriter.AssemblyInfo.cs
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\06-StreamWriter\obj\Debug\net6.0\06-StreamWriter.csproj.CoreCompileInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\06-StreamWriter\obj\Debug\net6.0\06-StreamWriter.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\06-StreamWriter\obj\Debug\net6.0\refint\06-StreamWriter.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\06-StreamWriter\obj\Debug\net6.0\06-StreamWriter.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\06-StreamWriter\obj\Debug\net6.0\06-StreamWriter.genruntimeconfig.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\06-StreamWriter\obj\Debug\net6.0\ref\06-StreamWriter.dll

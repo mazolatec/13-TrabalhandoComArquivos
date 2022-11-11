@@ -1,0 +1,15 @@
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\03-FileStreamStreamReader\bin\Debug\net6.0\03-FileStreamStreamReader.exe
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\03-FileStreamStreamReader\bin\Debug\net6.0\03-FileStreamStreamReader.deps.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\03-FileStreamStreamReader\bin\Debug\net6.0\03-FileStreamStreamReader.runtimeconfig.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\03-FileStreamStreamReader\bin\Debug\net6.0\03-FileStreamStreamReader.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\03-FileStreamStreamReader\bin\Debug\net6.0\03-FileStreamStreamReader.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\03-FileStreamStreamReader\obj\Debug\net6.0\03-FileStreamStreamReader.csproj.AssemblyReference.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\03-FileStreamStreamReader\obj\Debug\net6.0\03-FileStreamStreamReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\03-FileStreamStreamReader\obj\Debug\net6.0\03-FileStreamStreamReader.AssemblyInfoInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\03-FileStreamStreamReader\obj\Debug\net6.0\03-FileStreamStreamReader.AssemblyInfo.cs
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\03-FileStreamStreamReader\obj\Debug\net6.0\03-FileStreamStreamReader.csproj.CoreCompileInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\03-FileStreamStreamReader\obj\Debug\net6.0\03-FileStreamStreamReader.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\03-FileStreamStreamReader\obj\Debug\net6.0\refint\03-FileStreamStreamReader.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\03-FileStreamStreamReader\obj\Debug\net6.0\03-FileStreamStreamReader.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\03-FileStreamStreamReader\obj\Debug\net6.0\03-FileStreamStreamReader.genruntimeconfig.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\03-FileStreamStreamReader\obj\Debug\net6.0\ref\03-FileStreamStreamReader.dll

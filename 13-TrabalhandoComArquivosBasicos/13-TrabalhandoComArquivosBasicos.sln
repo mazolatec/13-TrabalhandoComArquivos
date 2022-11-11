@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileFileInfoIOException", "FileFileInfoIOException\FileFileInfoIOException.csproj", "{A1DC689E-B757-44F4-A5DF-0F5123EFB322}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileFileInfoIOException", "FileFileInfoIOException\FileFileInfoIOException.csproj", "{A1DC689E-B757-44F4-A5DF-0F5123EFB322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-DemoFile", "DemoFile\01-DemoFile.csproj", "{04081574-DFFC-4748-8CEF-53CA5531E59F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-FileInfoDemo", "FileInfoDemo\02-FileInfoDemo.csproj", "{05BCA614-DF2D-4512-B34E-3956A8B10B4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-FileStreamStreamReader", "03-FileStreamStreamReader\03-FileStreamStreamReader.csproj", "{50E78C84-2AEB-4355-BAEE-9C7D0F722B6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-FileStreamStreamReader", "04-FileStreamStreamReader\04-FileStreamStreamReader.csproj", "{42838F73-3A43-4105-90E9-ED86D09DE73A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-UsingBlock", "05-UsingBlock\05-UsingBlock.csproj", "{60EB7C44-8548-43FC-8FC4-3A3AF4E8702E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-StreamWriter", "06-StreamWriter\06-StreamWriter.csproj", "{BDE5B87F-5A31-46EC-80AF-7EC3097760A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +27,30 @@ Global
 		{A1DC689E-B757-44F4-A5DF-0F5123EFB322}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1DC689E-B757-44F4-A5DF-0F5123EFB322}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1DC689E-B757-44F4-A5DF-0F5123EFB322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04081574-DFFC-4748-8CEF-53CA5531E59F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04081574-DFFC-4748-8CEF-53CA5531E59F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04081574-DFFC-4748-8CEF-53CA5531E59F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04081574-DFFC-4748-8CEF-53CA5531E59F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05BCA614-DF2D-4512-B34E-3956A8B10B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05BCA614-DF2D-4512-B34E-3956A8B10B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05BCA614-DF2D-4512-B34E-3956A8B10B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05BCA614-DF2D-4512-B34E-3956A8B10B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50E78C84-2AEB-4355-BAEE-9C7D0F722B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E78C84-2AEB-4355-BAEE-9C7D0F722B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E78C84-2AEB-4355-BAEE-9C7D0F722B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E78C84-2AEB-4355-BAEE-9C7D0F722B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42838F73-3A43-4105-90E9-ED86D09DE73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42838F73-3A43-4105-90E9-ED86D09DE73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42838F73-3A43-4105-90E9-ED86D09DE73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42838F73-3A43-4105-90E9-ED86D09DE73A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60EB7C44-8548-43FC-8FC4-3A3AF4E8702E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60EB7C44-8548-43FC-8FC4-3A3AF4E8702E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60EB7C44-8548-43FC-8FC4-3A3AF4E8702E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60EB7C44-8548-43FC-8FC4-3A3AF4E8702E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDE5B87F-5A31-46EC-80AF-7EC3097760A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE5B87F-5A31-46EC-80AF-7EC3097760A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE5B87F-5A31-46EC-80AF-7EC3097760A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE5B87F-5A31-46EC-80AF-7EC3097760A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

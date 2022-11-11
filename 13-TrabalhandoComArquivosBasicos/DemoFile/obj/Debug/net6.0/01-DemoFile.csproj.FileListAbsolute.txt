@@ -1,0 +1,15 @@
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\DemoFile\bin\Debug\net6.0\01-DemoFile.exe
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\DemoFile\bin\Debug\net6.0\01-DemoFile.deps.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\DemoFile\bin\Debug\net6.0\01-DemoFile.runtimeconfig.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\DemoFile\bin\Debug\net6.0\01-DemoFile.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\DemoFile\bin\Debug\net6.0\01-DemoFile.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\DemoFile\obj\Debug\net6.0\01-DemoFile.csproj.AssemblyReference.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\DemoFile\obj\Debug\net6.0\01-DemoFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\DemoFile\obj\Debug\net6.0\01-DemoFile.AssemblyInfoInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\DemoFile\obj\Debug\net6.0\01-DemoFile.AssemblyInfo.cs
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\DemoFile\obj\Debug\net6.0\01-DemoFile.csproj.CoreCompileInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\DemoFile\obj\Debug\net6.0\01-DemoFile.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\DemoFile\obj\Debug\net6.0\refint\01-DemoFile.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\DemoFile\obj\Debug\net6.0\01-DemoFile.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\DemoFile\obj\Debug\net6.0\01-DemoFile.genruntimeconfig.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\13-TrabalhandoComArquivos\13-TrabalhandoComArquivosBasicos\DemoFile\obj\Debug\net6.0\ref\01-DemoFile.dll
